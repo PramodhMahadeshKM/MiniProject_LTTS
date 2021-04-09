@@ -44,6 +44,9 @@ condition choose_filter(char c){
 
     else {
         printf("\nEnter the correct alphabet");
+        printf("\nRefer the below chart to choose your filter\n");
+        printf("A - First order low pass filter\nB - First order high pass filter\nC - Second order low pass filter\n");
+        printf("D - Second order high pass filter\nE - Bandpass filter\n");
         flag=-1;
         }
     
@@ -81,6 +84,7 @@ condition FLP(input_val* params)
 
     if (params->freq<0.1 || params->freq>250 || params->Af<1 || params->Af>100){
             printf("\nLimits violated.Check again");
+            printf("\n !!! Note : The operating frequency range is 0.1kHz to 250kHz and pass band gain is between 1 to 100 dB !!!\n");
             return Limit_error;
     }
 
@@ -119,6 +123,7 @@ condition FHP(input_val* params)
 
     if (params->freq<0.1 || params->freq>250 || params->Af<1 || params->Af>100){
             printf("\nLimits violated.Check again");
+            printf("\n !!! Note : The operating frequency range is 0.1kHz to 250kHz and pass band gain is between 1 to 100 dB !!!\n");
             return Limit_error;
     }
 
@@ -157,6 +162,7 @@ condition SLP(input_val* params)
 
     if (params->freq<0.1 || params->freq>250 || params->Af<1 || params->Af>100){
             printf("\nLimits violated.Check again");
+            printf("\n !!! Note : The operating frequency range is 0.1kHz to 250kHz and pass band gain is between 1 to 100 dB !!!\n");
             return Limit_error;
     }
 
@@ -188,6 +194,7 @@ condition SHP(input_val* params)
 
     if (params->freq<0.1 || params->freq>250 || params->Af<1 || params->Af>100){
             printf("\nLimits violated.Check again");
+            printf("\n !!! Note : The operating frequency range is 0.1kHz to 250kHz and pass band gain is between 1 to 100 dB !!!\n");
             return Limit_error;
     }
 
@@ -219,6 +226,7 @@ condition BPF(input_val* params)
 
     if (params->l_freq<0.1 || params->l_freq>params->u_freq || params->u_freq>250 || params->Af<1 || params->Af>100){
             printf("\nLimits violated.Check again");
+            printf("\n !!! Note : The operating frequency range is 0.1kHz to 250kHz and pass band gain is between 1 to 100 dB !!!\n");
             return Limit_error;
     } 
 
