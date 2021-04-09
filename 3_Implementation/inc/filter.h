@@ -30,19 +30,20 @@ typedef struct output_val{
 }output_val;
 
 typedef enum condition{
-    Failure = -1,
     Limit_error=-2,
-    code_error=-3,
-    Success = 0
+    code_error=-1,
+    Failure = 0,
+    Success = 1
 }condition;
 
 void display(void);
+condition check_code(char c);
 condition choose_filter(char c);
-condition FLP(input_val *params);
-condition FHP(input_val *params);
-condition SLP(input_val *params);
-condition SHP(input_val *params);
-condition BPF(input_val *params);
+condition FLP(input_val* params);
+condition FHP(input_val* params);
+condition SLP(input_val* params);
+condition SHP(input_val* params);
+condition BPF(input_val* params);
 
 
 
