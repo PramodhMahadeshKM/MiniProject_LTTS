@@ -44,7 +44,7 @@ condition choose_filter(char c){
         }
 
     else {
-        printf("\nEnter the correct alphabet");
+        printf("\n!!! Enter the correct alphabet !!! \n");
         printf("\nRefer the below chart to choose your filter\n");
         printf("A - First order low pass filter\nB - First order high pass filter\nC - Second order low pass filter\n");
         printf("D - Second order high pass filter\nE - Bandpass filter\n");
