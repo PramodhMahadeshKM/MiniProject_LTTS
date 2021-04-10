@@ -1,16 +1,16 @@
 #include "filter.h"
 #include "unity.h"
 
-input_val right1={0.3,10,0,0};
-input_val wrong1={10,0.1,0,0};
-input_val wrong2={0.015,150,0,0};
-input_val wrong3={0.02,100,0,0};
-input_val wrong4={300,120,0,0};
+input_val right1={0.3,10,0,0};      // correct input
+input_val wrong1={10,0.1,0,0};      //Af lower limit check
+input_val wrong2={0.015,150,0,0};   //freq lower limit and Af upper limit check
+input_val wrong3={0.02,100,0,0};    //freq lower limit check
+input_val wrong4={300,50,0,0};      //freq upper limit check
 
-input_val right2={0,20,10,50};
-input_val wrong5={0,20,0.01,100};
-input_val wrong6={0,20,10,300};
-input_val wrong7={0,1020,30,10};
+input_val right2={0,20,10,50};      //correct input
+input_val wrong5={0,20,0.01,100};   //freq lower limit check
+input_val wrong6={0,20,10,300};     //freq upper limit check
+input_val wrong7={0,1020,30,10};    //Af upper limit check
 
 void setUp(){}
 void tearDown(){}

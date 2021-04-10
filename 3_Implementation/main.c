@@ -8,6 +8,6 @@ int main(){
     scanf("%c",&a);
     choose_filter(a);
 
-    
+    return 0;
 
 }

@@ -1,2 +1,2 @@
-@mainpage Complex calculator Application by Bharath G
-@subpage complex_calculator.h
+@mainpage Active Filters design utility by Pramodh Mahadesh K M
+@subpage filter.h

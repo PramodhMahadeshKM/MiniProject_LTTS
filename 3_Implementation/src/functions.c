@@ -6,6 +6,7 @@
 #define rt2 1.414213562
 
 void display(void){
+    printf("******************************WELCOME******************************\n\n");
     printf("This is a project that will give you the parameters to design different active filters.\n");
     printf("Refer the below chart to choose your filter\n");
     printf("A - First order low pass filter\nB - First order high pass filter\nC - Second order low pass filter\n");
