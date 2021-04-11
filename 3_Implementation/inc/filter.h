@@ -20,7 +20,7 @@
  */
 typedef struct input_val{
     float freq;
-    float Af;
+    float Av;
     float l_freq;
     float u_freq;
 }input_val;
