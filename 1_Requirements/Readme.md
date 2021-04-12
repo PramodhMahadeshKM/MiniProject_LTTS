@@ -55,7 +55,7 @@ Since the topic was simple and basic, I could not find any relevant projects or 
 | ------ | --------- | ------ | ----- |
 | LR01 | Application should be able to run on the CLI of the user | HR01,HR03 | Implemented |
 | LR02 | Application should use makefile option for different commands | HR02 | Implemented |
-| LR03 | Application should comply with different checks like valgrind,cppcheck,build etc. | TBD |
+| LR03 | Application should comply with different checks like valgrind,cppcheck,build etc. | HR04 | TBD |
 | LR04 | Application to be used with a GUI to provide inputs and print outputs | HR01,HR03 | Future |
 | LR05 | Application should give the user leverage on different inputs and give information on various limits | HR01 | Implemented |
 
