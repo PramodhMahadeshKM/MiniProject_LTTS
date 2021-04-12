@@ -7,7 +7,7 @@ Since the topic was simple and basic, I could not find any relevant projects or 
 
 ## Cost and Features
  * The cost parameter for this project was none.All the softwares and features were freely available on the internet.
- * The features of this project is that it can take input for the type of filter for caculation and provides accurate results.
+ * The features of this project is that it can take input for the type of filter for calculation and provides accurate results.
 
 ## Defining Our System
 ### Configurations
