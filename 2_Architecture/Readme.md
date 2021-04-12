@@ -4,6 +4,11 @@
 ## Structural Diagrams
 
 * Class Diagram:
+
+
+
+
+
 ![Class Diagram](https://github.com/PramodhMahadeshKM/MiniProject_LTTS/blob/master/5_ImagesAndVideos/uml_diagrams/Class%20Diagram.jpg)
 
 
