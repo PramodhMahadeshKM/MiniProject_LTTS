@@ -107,7 +107,7 @@ condition FLP(input_val* params)
     printf("\nThe design parameters for a first order low pass inverting filter are:\n");
     printf("R1=%.3f k-ohm\nR2=%.3f k-ohm\nC=%.3f nF\n",FLP_result2->R1,FLP_result2->R2,FLP_result2->C);
 
-    printf("\n\nRefer the images and videos section for circuit diagram\n");
+    printf("\n\nRefer the images and videos or readme section for circuit diagram\n");
 
     free(FLP_result1);
     free(FLP_result2);
@@ -146,7 +146,7 @@ condition FHP(input_val* params)
     printf("\nThe design parameters for a first order high pass inverting filter are:\n");
     printf("R1=%.3f k-ohm\nR2=%.3f k-ohm\nC=%.3f nF\n",FHP_result2->R1,FHP_result2->R2,FHP_result2->C);
 
-    printf("\n\nRefer the images and videos section for circuit diagram\n");
+    printf("\n\nRefer the images and videos or readme section for circuit diagram\n");
 
     free(FHP_result1);
     free(FHP_result2);
@@ -180,7 +180,7 @@ condition SLP(input_val* params)
     printf("R1=%.3f k-ohm\nR2=%.3f k-ohm\nR3=%.3f k-ohm\nR4=%.3f k-ohm\n",SLP_result->R1,SLP_result->R2,SLP_result->R3,SLP_result->R4);
     printf("C1=%.3f nF\nC2=%.3f nF\n",SLP_result->C1,SLP_result->C2);
 
-    printf("\n\nRefer the images and videos section for circuit diagram\n");
+    printf("\n\nRefer the images and videos or readme section for circuit diagram\n");
 
     free(SLP_result);
 
@@ -212,7 +212,7 @@ condition SHP(input_val* params)
     printf("R1=%.3f k-ohm\nR2=%.3f k-ohm\nR3=%.3f k-ohm\nR4=%.3f k-ohm\n",SHP_result->R1,SHP_result->R2,SHP_result->R3,SHP_result->R4);
     printf("C1=%.3f nF\nC2=%.3f nF\n",SHP_result->C1,SHP_result->C2);
 
-    printf("\n\nRefer the images and videos section for circuit diagram\n");
+    printf("\n\nRefer the images and videos or readme section for circuit diagram\n");
 
     free(SHP_result);
 
@@ -243,7 +243,7 @@ condition BPF(input_val* params)
     printf("R1=%.3f k-ohm\nR2=%.3f k-ohm\nR3=%.3f k-ohm\n",BPF_result->R1,BPF_result->R2,BPF_result->R3);
     printf("C1=%.3f nF\nC2=%.3f nF\n",BPF_result->C1,BPF_result->C2);
 
-    printf("\n\nRefer the images and videos section for circuit diagram\n");
+    printf("\n\nRefer the images and videos or readme section for circuit diagram\n");
 
     free(BPF_result);
 

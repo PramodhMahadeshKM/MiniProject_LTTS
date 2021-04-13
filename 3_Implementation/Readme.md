@@ -19,3 +19,40 @@
 1. To test, after step 1, run the command "make test".\
 2. To remove the built files and dirs, run the command "make clean".\
 3. If it shows "'make' is not recognized as an internal or external command" in your computer, try using "mingw32-make".
+
+
+## Images:
+ * First order low pass non-inverting filter:
+
+ ![FLP-non inverting](https://github.com/PramodhMahadeshKM/MiniProject_LTTS/blob/master/5_ImagesAndVideos/filters_images/FLP%20non%20inverting.jpg)
+
+
+ * First order low pass inverting filter:
+
+ ![FLP-inverting](https://github.com/PramodhMahadeshKM/MiniProject_LTTS/blob/master/5_ImagesAndVideos/filters_images/FLP%20inverting.jpg)
+
+
+ * First order high pass non-inverting filter:
+
+ ![FHP-non inverting](https://github.com/PramodhMahadeshKM/MiniProject_LTTS/blob/master/5_ImagesAndVideos/filters_images/FHP%20non%20inverting.jpg)
+
+
+ * First order high pass inverting filter:
+
+ ![FHP-inverting](https://github.com/PramodhMahadeshKM/MiniProject_LTTS/blob/master/5_ImagesAndVideos/filters_images/FHP%20inverting.jpg)
+
+
+ * Second order low pass filter:
+
+ ![SHP](https://github.com/PramodhMahadeshKM/MiniProject_LTTS/blob/master/5_ImagesAndVideos/filters_images/SLP.jpg)
+
+ * Second order high pass filter:
+
+ ![SHP](https://github.com/PramodhMahadeshKM/MiniProject_LTTS/blob/master/5_ImagesAndVideos/filters_images/SHP.jpg)
+
+ * Bandpass Filter:
+
+ ![BPF](https://github.com/PramodhMahadeshKM/MiniProject_LTTS/blob/master/5_ImagesAndVideos/filters_images/BPF.jpg)
+
+
+
