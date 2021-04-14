@@ -1,14 +1,14 @@
 
 # TEST PLAN:
 
-## Table no: High level test plan
+## Table: High level test plan
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |HLT01     | Test various code quality checks | .c files, .out/.exe files,Implementation folder | Pass | Pass | Technical |
 |HLT02     | Test various user inputs | User inputs | Success | Success | Scenario/Technical
 
-## Table no: Low level test plan
+## Table: Low level test plan
 
 | **Test ID** | **HLT ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
