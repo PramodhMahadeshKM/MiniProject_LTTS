@@ -13,7 +13,7 @@ Folder             | Description
 `2_Design`         | Pictorial representation regarding design details
 `3_Implementation` | The code and working
 `4_Test_plan`      | Documents with test plans and procedures
-`5_ImagesAndVideos`| Important images 
+`5_ImagesAndVideos`| Important images regarding circuit diagrams and uml
 
 
 
