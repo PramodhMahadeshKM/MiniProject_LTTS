@@ -1,4 +1,9 @@
-Design of Active filters using op-amps.
 
-This project takes input from the user and gives the different parameters required to design different types of Active filters.
+# Design of Active filters using op-amps.
+
+| Build | Cppcheck | Unity | Valgrind |
+| ------- | ---------- | ---------- | ------------- |
+| ![C CI Build status]([![C/C++ CI](https://github.com/PramodhMahadeshKM/MiniProject_LTTS/actions/workflows/C%20CI%20Build.yml/badge.svg)](https://github.com/PramodhMahadeshKM/MiniProject_LTTS/actions/workflows/C%20CI%20Build.yml)) | 
+
+
 
