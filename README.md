@@ -19,7 +19,7 @@ Folder                     | Description
 
 |SF No.   |  Name     |    Features    | Issuess Raised | Issues Resolved | No. of Test Cases|Test Cases Passed|
 |-|-|-|-|-|-|-|
-|`258070` | Pramodh Mahadesh K M | Prvides accurate design requirements for the user | 3 | 3 | 6 | 6 |
+|`258070` | Pramodh Mahadesh K M | Provides accurate design requirements for the user | 3 | 3 | 6 | 6 |
 
 ## Challenges Faced and How It Was Overcome
 
