@@ -15,5 +15,14 @@ Folder             | Description
 `4_Test_plan`      | Documents with test plans and procedures
 `5_ImagesAndVideos`| Important images regarding circuit diagrams and uml
 
+## Contributors List and Summary
+
+|SF No.   |  Name     |    Features    | Issuess Raised | Issues Resolved | No. of Test Cases|Test Cases Passed|
+|-|-|-|-|-|-|-|
+|`258070` | Pramodh Mahadesh K M | Prvides accurate design requirements for the user | 3 | 3 | 6 | 6 |
+
+## Challenges Faced and How It Was Overcome
+
+ * I faced many issues regarding the Makefile, Github actions and markdown. All these could be solved with the help of the learning resources provided in the futureskills and also the template prvided to us.
 
 
