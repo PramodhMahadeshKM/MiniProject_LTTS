@@ -7,13 +7,13 @@
 
 
 ## Folder Structure
-Folder             | Description
--------------------| -----------------------------------------
-`1_Requirements`   | A brief about requirements and research
-`2_Design`         | Pictorial representation regarding design details
-`3_Implementation` | The code and working
-`4_Test_plan`      | Documents with test plans and procedures
-`5_ImagesAndVideos`| Important images regarding circuit diagrams and uml
+Folder                     | Description
+-------------------        | -----------------------------------------
+`1_Requirements`           | A brief about requirements and research
+`2_Design`                 | Pictorial representation regarding design details
+`3_Implementation`         | The code and working
+`4_TestPlanAndOutput`      | Documents with test plans and procedures
+`5_ImagesAndVideos`        | Important images regarding circuit diagrams and uml
 
 ## Contributors List and Summary
 
